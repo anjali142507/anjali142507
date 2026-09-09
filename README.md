@@ -11,10 +11,10 @@
 ### 🚀 About Me
 
 - 🔭 Java Backend Developer
-- 🎓 MCA Student
+- 🎓 MCA Graduate
 - 💼 Building backend applications using Java, Spring Boot, Hibernate, and MySQL
 - 📚 Solving Data Structures & Algorithms problems on LeetCode
-- 🌱 Currently learning: Spring Security, REST API best practices, Docker
+- 🌱 Currently learning: Spring Security, Docker
 - 💬 Interested in Java Backend and Open Source contributions
 - 📫 Reach me at: **anjalimalii07@gmail.com**
 
